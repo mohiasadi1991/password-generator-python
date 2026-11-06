@@ -1,1 +1,1 @@
-A simple Python password generator with customizable options, secure randomization, and an easy-to-use command-line interface.
+A simple Python password generator with customizable options, secure randomization, and an easy-to-use command-line interfae.
